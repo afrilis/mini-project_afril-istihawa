@@ -1,7 +1,7 @@
 # Project Name
 
 ## About Project
-tambahkan deskripsi project disini
+ETL adalah singkatan dari Extract, Transform, Load. Tujuan utama dari notebook ini adalah untuk membersihkan kumpulan data dan menggabungkannya menjadi satu tabel yang nantinya bisa digunakan untuk menjalankan model prediksi biaya total proyek Bank Dunia.
 
 ## Tech Stacks
 sebutkan daftar tools dan framework yang digunakan dalam bentuk list seperti ini:
