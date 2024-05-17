@@ -1,16 +1,31 @@
 # Project Name
+Pengembangan Pipeline ETL & Visualisasi Data untuk Proyek Bank Dunia
 
 ## About Project
-ETL adalah singkatan dari Extract, Transform, Load. Tujuan utama dari notebook ini adalah untuk membersihkan kumpulan data dan menggabungkannya menjadi satu tabel yang nantinya bisa digunakan untuk menjalankan model prediksi biaya total proyek Bank Dunia.
+Merupakan implementasi proses ETL (Extract, Transform, Load) dari hasil kegiatan Studi Independen.
+Pada proyek ini akan dilakukan pembersihkan kumpulan data dan menggabungkannya menjadi satu tabel yang nantinya bisa digunakan untuk menjalankan model prediksi biaya total proyek Bank Dunia.
 
 ## Tech Stacks
-sebutkan daftar tools dan framework yang digunakan dalam bentuk list seperti ini:
-- tech stack A
-- tech stack B
-- tech stack C
+Daftar tools dan framework yang digunakan :
+
+Tools:
+- Visual Studio Code
+- Jupyter Notebook
+- Github
+
+Frameworks:
+import pandas as pd
+import requests
+import sqlite3
+from bs4 import BeautifulSoup
+from IPython.display import display 
+from sklearn.preprocessing import StandardScaler
 
 ## Architecture Diagram
-tambahkan diagram dari project yang dibuat
+![image](arsitektur-diagram.png)
 
 ## Setup 
-sebutkan cara menggunakan project ini di lokal
+Untuk menggunakan project ini dilokal, lakukan langkah-langkah berikut:
+- Clone repository proyek dari GitHub atau mengunduh zip
+- Masuk ke teks editor untuk membuka proyek dan unduh dependensi yang di perlukan
+- Lalu jalankan proyek ETL
