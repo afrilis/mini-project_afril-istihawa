@@ -1,5 +1,5 @@
-# Project Name
-Pengembangan Pipeline ETL & Visualisasi Data untuk Proyek Bank Dunia
+# Pengembangan Pipeline ETL & Visualisasi Data untuk Proyek Bank Dunia
+
 
 ## About Project
 Merupakan implementasi proses ETL (Extract, Transform, Load) dari hasil kegiatan Studi Independen.
